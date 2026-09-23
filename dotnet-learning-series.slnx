@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/ai-engineering/" />
+  <Folder Name="/interview-prep/">
+    <Project Path="interview-prep/day-01-di-lifetimes/DiLifetimes.csproj" />
+  </Folder>
+</Solution>
