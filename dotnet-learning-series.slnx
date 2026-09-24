@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/ai-engineering/" />
   <Folder Name="/interview-prep/">
-    <Project Path="AsyncDeadlock/AsyncDeadlock.csproj" Id="d86c7368-ba3c-4be5-ba18-3f5b290b7095" />
     <Project Path="interview-prep/day-01-di-lifetimes/DiLifetimes.csproj" />
+    <Project Path="interview-prep/day-02-async-deadlock/AsyncDeadlock.csproj" />
   </Folder>
 </Solution>
