@@ -3,5 +3,6 @@
   <Folder Name="/interview-prep/">
     <Project Path="interview-prep/day-01-di-lifetimes/DiLifetimes.csproj" />
     <Project Path="interview-prep/day-02-async-deadlock/AsyncDeadlock.csproj" />
+    <Project Path="interview-prep/day-03-middleware-order/MiddlewareOrder.csproj" />
   </Folder>
 </Solution>
