@@ -4,5 +4,6 @@
     <Project Path="interview-prep/day-01-di-lifetimes/DiLifetimes.csproj" />
     <Project Path="interview-prep/day-02-async-deadlock/AsyncDeadlock.csproj" />
     <Project Path="interview-prep/day-03-middleware-order/MiddlewareOrder.csproj" />
+    <Project Path="interview-prep/day-04-ef-core-n-plus-1/NPlusOneDemo.csproj" />
   </Folder>
 </Solution>
