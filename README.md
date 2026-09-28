@@ -8,8 +8,9 @@ This is the daily .NET learning series I post on LinkedIn and X. Each day is a s
 
 | Day | Topic | Folder |
 |-----|-------|--------|
-| 1 | DI lifetimes: Scoped inside a Singleton | [day-01-di-lifetimes](interview-prep/day-01-di-lifetimes) 
+| 1 | DI lifetimes: Scoped inside a Singleton | [day-01-di-lifetimes](interview-prep/day-01-di-lifetimes) |
 | 2 | `.Result` deadlock and `ConfigureAwait(false)` | [day-02-async-deadlock](interview-prep/day-02-async-deadlock) |
+| 3 | Middleware order: `UseAuthentication` vs `UseAuthorization` | [day-03-middleware-order](interview-prep/day-03-middleware-order) |
 | 4 | EF Core N+1 query problem | [day-04-ef-core-n-plus-1](interview-prep/day-04-ef-core-n-plus-1) |
 
 ### AI Engineering in .NET (14 days)
