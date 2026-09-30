@@ -13,6 +13,7 @@ This is the daily .NET learning series I post on LinkedIn and X. Each day is a s
 | 3 | Middleware order: `UseAuthentication` vs `UseAuthorization` | [day-03-middleware-order](interview-prep/day-03-middleware-order) |
 | 4 | EF Core N+1 query problem | [day-04-ef-core-n-plus-1](interview-prep/day-04-ef-core-n-plus-1) |
 | 5 | `IEnumerable` vs `IQueryable` | [day-05-ienumerable-vs-iqueryable](interview-prep/day-05-ienumerable-vs-iqueryable) |
+| 6 | Memory, GC and `IDisposable` | [day-06-memory-gc-dispose](interview-prep/day-06-memory-gc-dispose) |
 
 ### AI Engineering in .NET (14 days)
 
