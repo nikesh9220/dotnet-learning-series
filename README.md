@@ -14,6 +14,7 @@ This is the daily .NET learning series I post on LinkedIn and X. Each day is a s
 | 4 | EF Core N+1 query problem | [day-04-ef-core-n-plus-1](interview-prep/day-04-ef-core-n-plus-1) |
 | 5 | `IEnumerable` vs `IQueryable` | [day-05-ienumerable-vs-iqueryable](interview-prep/day-05-ienumerable-vs-iqueryable) |
 | 6 | Memory, GC and `IDisposable` | [day-06-memory-gc-dispose](interview-prep/day-06-memory-gc-dispose) |
+| 7 | `struct` vs `class` and `Span<T>` | [day-07-struct-vs-class-span](interview-prep/day-07-struct-vs-class-span) |
 
 ### AI Engineering in .NET (14 days)
 

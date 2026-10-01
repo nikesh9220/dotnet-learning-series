@@ -7,5 +7,6 @@
     <Project Path="interview-prep/day-04-ef-core-n-plus-1/NPlusOneDemo.csproj" />
     <Project Path="interview-prep/day-05-ienumerable-vs-iqueryable/IEnumerableVsIQueryable.csproj" />
     <Project Path="interview-prep/day-06-memory-gc-dispose/MemoryGcDispose.csproj" />
+    <Project Path="interview-prep/day-07-struct-vs-class-span/StructVsClassSpan.csproj" />
   </Folder>
 </Solution>
