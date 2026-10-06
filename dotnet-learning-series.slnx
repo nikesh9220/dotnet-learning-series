@@ -8,5 +8,6 @@
     <Project Path="interview-prep/day-05-ienumerable-vs-iqueryable/IEnumerableVsIQueryable.csproj" />
     <Project Path="interview-prep/day-06-memory-gc-dispose/MemoryGcDispose.csproj" />
     <Project Path="interview-prep/day-07-struct-vs-class-span/StructVsClassSpan.csproj" />
+    <Project Path="interview-prep/day-08-record-immutability/RecordImmutability.csproj" />
   </Folder>
 </Solution>
