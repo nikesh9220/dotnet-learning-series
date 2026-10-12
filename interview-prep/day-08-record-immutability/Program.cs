@@ -1,7 +1,5 @@
-﻿using System.Collections.Immutable;
-
+﻿using New = RecordImmutability.After;
 using Old = RecordImmutability.Before;
-using New = RecordImmutability.After;
 
 Console.WriteLine("BEFORE: record Order(int Id, string Customer, List<string> Items)");
 

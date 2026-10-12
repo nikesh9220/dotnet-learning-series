@@ -9,5 +9,6 @@
     <Project Path="interview-prep/day-06-memory-gc-dispose/MemoryGcDispose.csproj" />
     <Project Path="interview-prep/day-07-struct-vs-class-span/StructVsClassSpan.csproj" />
     <Project Path="interview-prep/day-08-record-immutability/RecordImmutability.csproj" />
+    <Project Path="interview-prep/day-09-minimal-apis-vs-controller/MinimalApisVsControllers.csproj" />
   </Folder>
 </Solution>
