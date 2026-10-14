@@ -17,6 +17,7 @@ This is the daily .NET learning series I post on LinkedIn and X. Each day is a s
 | 7 | `struct` vs `class` and `Span<T>` | [day-07-struct-vs-class-span](interview-prep/day-07-struct-vs-class-span) |
 | 8 | Records and immutability | [day-08-record-immutability](interview-prep/day-08-record-immutability) |
 | 9 | Minimal APIs vs Controllers | [day-09-minimal-apis-vs-controller](interview-prep/day-09-minimal-apis-vs-controller) |
+| 10 | Where an Angular SPA should store the token | [day-10-spa-token-storage](interview-prep/day-10-spa-token-storage) |
 
 ### AI Engineering in .NET (14 days)
 

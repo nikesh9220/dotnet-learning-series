@@ -10,5 +10,6 @@
     <Project Path="interview-prep/day-07-struct-vs-class-span/StructVsClassSpan.csproj" />
     <Project Path="interview-prep/day-08-record-immutability/RecordImmutability.csproj" />
     <Project Path="interview-prep/day-09-minimal-apis-vs-controller/MinimalApisVsControllers.csproj" />
+    <Project Path="interview-prep/day-10-spa-token-storage/SpaTokenStorage.csproj" />
   </Folder>
 </Solution>

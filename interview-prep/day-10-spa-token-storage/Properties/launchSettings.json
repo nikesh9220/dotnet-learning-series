@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SpaTokenStorage": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53209;http://localhost:53210"
+    }
+  }
+}
